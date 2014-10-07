@@ -1,7 +1,9 @@
 '''
 Created on 15.09.2014
 
-@author: Esther
+@author: Esther Seyffarth
+
+written in Python 2.7
 '''
 # coding=utf8
 
